@@ -1,0 +1,5 @@
+Employee Name : Emon
+Employee Father's Name : Rashid
+Employee Contact No : 01618614837
+Employee Posoition : HR
+Employee ID : 28
